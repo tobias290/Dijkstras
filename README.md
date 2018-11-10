@@ -4,7 +4,7 @@ Dijkstra's algorithm implemented in Python 3.6.
 
 Example use:
 
-```
+```python
 # Create the tree 
 weighted_graph = Graph([
         Node("A", [
